@@ -39,7 +39,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/твойлогин/skaM.git
+git clone https://github.com/Rekids/messenger-skaM.git
 cd skaM
 pip install -r requirements.txt
 python main.py
